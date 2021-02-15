@@ -1,0 +1,24 @@
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\bin\Debug\Salon Otomasyonu.exe.config
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Form1.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Form2.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Form3.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Form4.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Form5.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Form6.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Form7.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Form8.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Properties.Resources.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\bin\Debug\Salon Otomasyonu.exe
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\bin\Debug\Salon Otomasyonu.pdb
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon Otomasyonu.exe
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon Otomasyonu.pdb
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.foto.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Kantin.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Kuafor.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Modaevi.resources
+C:\Users\osman\Desktop\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon_Otomasyonu.Salon.resources
+F:\2.sınıf2.dönem\proje\14545037_Osman_Onay\Salon Otomasyonu\Salon Otomasyonu\bin\Debug\Salon Otomasyonu.exe.config
+F:\2.sınıf2.dönem\proje\14545037_Osman_Onay\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon Otomasyonu.exe
+F:\2.sınıf2.dönem\proje\14545037_Osman_Onay\Salon Otomasyonu\Salon Otomasyonu\obj\Debug\Salon Otomasyonu.pdb
